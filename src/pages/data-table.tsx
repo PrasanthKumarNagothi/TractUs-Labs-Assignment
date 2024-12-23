@@ -47,6 +47,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Moon, Sun, Check, ChevronsUpDown } from "lucide-react";
 import { useTheme } from "@/components/theme-provider";
+import { Link } from "react-router-dom";
 
 interface DataTableProps<TData, TValue> {
     columns: ColumnDef<TData, TValue>[];
@@ -197,6 +198,9 @@ export function DataTable<TData, TValue>({
                         </DropdownMenuContent>
                     </DropdownMenu>
                 </div>
+                <Link to={"new-contract"}>
+                    <Button>Generate New Contract</Button>
+                </Link>
             </div>
             <div className="rounded-md border">
                 <Table>

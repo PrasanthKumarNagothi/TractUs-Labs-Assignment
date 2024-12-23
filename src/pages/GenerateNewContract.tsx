@@ -24,7 +24,7 @@ import {
 } from "@/components/ui/alert-dialog";
 
 import { Input } from "@/components/ui/input";
-import { GalleryVerticalEnd } from "lucide-react";
+import { GalleryVerticalEnd, ArrowLeftFromLine } from "lucide-react";
 import { faker } from "@faker-js/faker";
 
 import { useState } from "react";
@@ -114,15 +114,23 @@ export default function GenerateNewContract() {
         <>
             <div className="flex min-h-svh w-full items-center justify-center p-6 md:p-10">
                 <div className="w-full max-w-sm flex-col gap-6">
-                    <a
-                        href="#"
-                        className="flex items-center gap-2 self-center font-medium"
-                    >
-                        <div className="flex h-6 w-6 items-center justify-center rounded-md bg-primary text-primary-foreground">
-                            <GalleryVerticalEnd className="size-4" />
-                        </div>
-                        TractUs Labs.
-                    </a>
+                    <div className="flex justify-between">
+                        <Link
+                            to="/"
+                            className="flex items-center gap-2 self-center font-medium"
+                        >
+                            <div className="flex h-6 w-6 items-center justify-center rounded-md bg-primary text-primary-foreground">
+                                <GalleryVerticalEnd className="size-4" />
+                            </div>
+                            TractUs Labs.
+                        </Link>
+
+                        <Link to={"/"}>
+                            <Button>
+                                <ArrowLeftFromLine /> Back to Dashboard
+                            </Button>
+                        </Link>
+                    </div>
                     <div className="mt-12">
                         <Form {...form}>
                             <form
