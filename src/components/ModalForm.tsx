@@ -138,9 +138,13 @@ function ModalForm(props: {
 
     async function onSubmit(values: z.infer<typeof formSchema>) {
         values.status = value;
-        await axios.put(`/api/contract/${values.contract_id}`, values, {
-            headers: { "content-type": "application/json" },
-        });
+        await axios.put(
+            `https://6762644f46efb37323746876.mockapi.io/api/contract/${values.contract_id}`,
+            values,
+            {
+                headers: { "content-type": "application/json" },
+            }
+        );
         fetchData();
     }
 

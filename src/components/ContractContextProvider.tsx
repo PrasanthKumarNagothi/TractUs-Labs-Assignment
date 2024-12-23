@@ -38,7 +38,9 @@ export const ContractProvider: React.FC<{ children: ReactNode }> = ({
         setLoading(true);
         setError(null);
         try {
-            const response = await axios.get("/api/contract");
+            const response = await axios.get(
+                "https://6762644f46efb37323746876.mockapi.io/api/contract"
+            );
             setData(await response.data);
         } catch (err: any) {
             setError(err.message || "Failed to fetch data.");

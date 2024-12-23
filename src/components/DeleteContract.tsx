@@ -17,7 +17,9 @@ function DeleteContract({ contract_id }: { contract_id: string }) {
     const { fetchData } = useContractContext();
 
     const deleteContract = async () => {
-        await axios.delete(`/api/contract/${contract_id}`);
+        await axios.delete(
+            `https://6762644f46efb37323746876.mockapi.io/api/contract/${contract_id}`
+        );
         fetchData();
     };
 

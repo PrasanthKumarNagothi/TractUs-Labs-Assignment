@@ -69,9 +69,13 @@ export default function GenerateNewContract() {
 
     async function onSubmit(values: z.infer<typeof formSchema>) {
         values.status = value;
-        await axios.post("/api/contract", values, {
-            headers: { "content-type": "application/json" },
-        });
+        await axios.post(
+            "https://6762644f46efb37323746876.mockapi.io/api/contract",
+            values,
+            {
+                headers: { "content-type": "application/json" },
+            }
+        );
         openDialog();
     }
 
