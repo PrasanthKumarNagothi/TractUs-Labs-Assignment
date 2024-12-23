@@ -178,7 +178,7 @@ export default function GenerateNewContract() {
                                 <FormField
                                     control={form.control}
                                     name="status"
-                                    render={({ field }) => (
+                                    render={() => (
                                         <FormItem>
                                             <FormLabel>Status</FormLabel>
                                             <FormControl>
