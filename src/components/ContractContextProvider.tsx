@@ -8,14 +8,16 @@ import React, {
 import axios from "axios";
 
 type ContractContextType = {
-    data: {
-        contract_id: string;
-        client_name: string;
-        start_date: string;
-        end_date: string;
-        status: string;
-        contract_value: number;
-    };
+    data:
+        | {
+              contract_id: string;
+              client_name: string;
+              start_date: string;
+              end_date: string;
+              status: string;
+              contract_value: number;
+          }
+        | undefined;
     fetchData: () => void;
     loading: boolean;
     error: string | null;
