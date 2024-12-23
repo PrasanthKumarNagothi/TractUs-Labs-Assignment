@@ -1,0 +1,402 @@
+[
+    {
+        "contract_id": "efcfa9e7-afb0-4327-bdf3-0599e7d14dd3",
+        "client_name": "Mattie Hickle",
+        "status": "terminated",
+        "start_date": "2024-07-17",
+        "end_date": "2025-12-21",
+        "contract_value": "69503"
+    },
+    {
+        "contract_id": "4d02c9bd-1d59-472c-8b36-0a4d75d81159",
+        "client_name": "Willis O'Connell",
+        "status": "active",
+        "start_date": "2024-12-19",
+        "end_date": "2025-06-27",
+        "contract_value": "71859"
+    },
+    {
+        "contract_id": "dd130456-e3d8-45cd-8571-9f61dcb18d51",
+        "client_name": "Mario Cartwright",
+        "status": "draft",
+        "start_date": "2024-01-20",
+        "end_date": "2025-11-09",
+        "contract_value": "14799"
+    },
+    {
+        "contract_id": "3658035d-e746-4d74-9e3e-e86ba3e92ad4",
+        "client_name": "Dr. Delores Prosacco",
+        "status": "draft",
+        "start_date": "2024-08-25",
+        "end_date": "2025-03-19",
+        "contract_value": "56993"
+    },
+    {
+        "contract_id": "39369322-73b2-4777-a030-974d0e4057bb",
+        "client_name": "Jenny Jast",
+        "status": "terminated",
+        "start_date": "2023-12-28",
+        "end_date": "2025-11-23",
+        "contract_value": "14358"
+    },
+    {
+        "contract_id": "7d47088a-783e-4e5c-8bb2-b32c1694b43a",
+        "client_name": "Rickey Heller",
+        "status": "completed",
+        "start_date": "2024-10-02",
+        "end_date": "2025-08-07",
+        "contract_value": "18136"
+    },
+    {
+        "contract_id": "46aace73-898d-408e-b110-665617abc572",
+        "client_name": "Lester Sanford",
+        "status": "completed",
+        "start_date": "2024-02-04",
+        "end_date": "2025-10-15",
+        "contract_value": "44002"
+    },
+    {
+        "contract_id": "01b30c09-3416-473b-bb2b-dee961389b6c",
+        "client_name": "Miss Lucia Ziemann",
+        "status": "active",
+        "start_date": "2024-11-28",
+        "end_date": "2025-09-25",
+        "contract_value": "96609"
+    },
+    {
+        "contract_id": "c9c56fc8-2f32-4ad9-8f41-bb7256a99f57",
+        "client_name": "Jaime Hirthe",
+        "status": "active",
+        "start_date": "2024-01-09",
+        "end_date": "2025-12-06",
+        "contract_value": "60691"
+    },
+    {
+        "contract_id": "13b5f8c4-9d27-4c30-97b3-776896532647",
+        "client_name": "Miguel Torp",
+        "status": "terminated",
+        "start_date": "2024-09-03",
+        "end_date": "2025-01-04",
+        "contract_value": "1181"
+    },
+    {
+        "contract_id": "96c70d6b-0a40-4f10-8c70-a1d9107e165f",
+        "client_name": "Roosevelt Willms",
+        "status": "completed",
+        "start_date": "2024-10-23",
+        "end_date": "2025-05-25",
+        "contract_value": "75491"
+    },
+    {
+        "contract_id": "aefe24ee-f27d-4743-bcf5-82c83c08a9db",
+        "client_name": "Jerome Gottlieb",
+        "status": "completed",
+        "start_date": "2024-02-02",
+        "end_date": "2025-11-05",
+        "contract_value": "8725"
+    },
+    {
+        "contract_id": "0e21e156-1fdc-4a3a-9a0f-4f315b438acd",
+        "client_name": "Kenny Corwin",
+        "status": "completed",
+        "start_date": "2024-02-26",
+        "end_date": "2025-03-04",
+        "contract_value": "63413"
+    },
+    {
+        "contract_id": "5bc81f8d-8a11-49f8-857e-6ef066df791b",
+        "client_name": "Tamara Huel",
+        "status": "draft",
+        "start_date": "2024-05-11",
+        "end_date": "2025-11-08",
+        "contract_value": "20644"
+    },
+    {
+        "contract_id": "63fd67f5-0f2a-4743-9879-07c9e570a109",
+        "client_name": "Tommie Bogisich-Pacocha",
+        "status": "draft",
+        "start_date": "2024-04-10",
+        "end_date": "2025-08-03",
+        "contract_value": "61030"
+    },
+    {
+        "contract_id": "47f90ccf-ab45-4707-b763-1368a64170a5",
+        "client_name": "Pamela Kilback",
+        "status": "terminated",
+        "start_date": "2024-04-02",
+        "end_date": "2025-10-31",
+        "contract_value": "67224"
+    },
+    {
+        "contract_id": "112a6249-eb8f-4043-857d-d798841e571b",
+        "client_name": "Mrs. Anna Rempel",
+        "status": "active",
+        "start_date": "2024-06-26",
+        "end_date": "2025-06-01",
+        "contract_value": "64670"
+    },
+    {
+        "contract_id": "9453bb2b-5a9d-4044-85ad-c51868573df8",
+        "client_name": "Melinda Lemke",
+        "status": "active",
+        "start_date": "2024-08-02",
+        "end_date": "2025-07-01",
+        "contract_value": "14987"
+    },
+    {
+        "contract_id": "22947f13-5cba-4ea7-ba6d-9a79e78f1e7b",
+        "client_name": "Perry Hintz-Rath",
+        "status": "draft",
+        "start_date": "2024-11-28",
+        "end_date": "2025-07-14",
+        "contract_value": "75408"
+    },
+    {
+        "contract_id": "5b974415-cc1a-4e59-ae67-7e64b144bdaf",
+        "client_name": "Betty Marvin",
+        "status": "completed",
+        "start_date": "2024-05-07",
+        "end_date": "2025-05-08",
+        "contract_value": "31637"
+    },
+    {
+        "contract_id": "166acef4-eece-41c8-9809-a03c20bea517",
+        "client_name": "Dr. Erika Fisher",
+        "status": "terminated",
+        "start_date": "2024-10-16",
+        "end_date": "2025-02-16",
+        "contract_value": "69946"
+    },
+    {
+        "contract_id": "8526a2ee-4ded-4dbc-b159-b5b1f85df8ff",
+        "client_name": "Darrel Fadel",
+        "status": "draft",
+        "start_date": "2024-02-25",
+        "end_date": "2025-12-10",
+        "contract_value": "28326"
+    },
+    {
+        "contract_id": "573b4918-e467-4174-92a3-a99e2418392f",
+        "client_name": "Sam Leffler",
+        "status": "active",
+        "start_date": "2024-04-01",
+        "end_date": "2025-09-06",
+        "contract_value": "17018"
+    },
+    {
+        "contract_id": "0dc7e42b-98d5-4db5-b165-9c4dbcd57ea5",
+        "client_name": "Derek Schroeder",
+        "status": "active",
+        "start_date": "2024-04-18",
+        "end_date": "2025-12-12",
+        "contract_value": "80304"
+    },
+    {
+        "contract_id": "bd8f674e-a4ae-479e-b67c-15afa5cdc9b3",
+        "client_name": "Dr. Felix Botsford",
+        "status": "terminated",
+        "start_date": "2024-04-02",
+        "end_date": "2025-02-04",
+        "contract_value": "57389"
+    },
+    {
+        "contract_id": "9fe0c5f3-f332-424d-a08d-9209c474f618",
+        "client_name": "Gloria Wilkinson III",
+        "status": "draft",
+        "start_date": "2024-02-19",
+        "end_date": "2024-12-29",
+        "contract_value": "34745"
+    },
+    {
+        "contract_id": "a73507c1-3299-4e40-804e-c79cea4a2772",
+        "client_name": "Johnnie Von-Goodwin",
+        "status": "terminated",
+        "start_date": "2024-05-22",
+        "end_date": "2025-12-03",
+        "contract_value": "5881"
+    },
+    {
+        "contract_id": "f82ae42a-1e86-411d-b5a2-4977453b888b",
+        "client_name": "Nellie Wiza",
+        "status": "completed",
+        "start_date": "2024-09-14",
+        "end_date": "2025-03-06",
+        "contract_value": "39745"
+    },
+    {
+        "contract_id": "8ea5724e-4b90-4ef7-9836-e24cd78f4972",
+        "client_name": "Derek Kiehn",
+        "status": "terminated",
+        "start_date": "2024-12-05",
+        "end_date": "2025-03-02",
+        "contract_value": "93541"
+    },
+    {
+        "contract_id": "0f2017b3-e5b2-4615-b628-09427d2d0174",
+        "client_name": "Janis Mante",
+        "status": "draft",
+        "start_date": "2024-11-30",
+        "end_date": "2025-09-16",
+        "contract_value": "98423"
+    },
+    {
+        "contract_id": "166d975c-05b4-489a-b1e0-a63649ee1b5d",
+        "client_name": "Byron Thiel",
+        "status": "draft",
+        "start_date": "2024-02-20",
+        "end_date": "2025-02-24",
+        "contract_value": "66672"
+    },
+    {
+        "contract_id": "3ecce49d-8740-4b5f-9d46-880727087049",
+        "client_name": "Winston Wilkinson",
+        "status": "terminated",
+        "start_date": "2024-01-19",
+        "end_date": "2025-05-10",
+        "contract_value": "86201"
+    },
+    {
+        "contract_id": "016e79a9-df6d-4711-8896-7d4d967b43cf",
+        "client_name": "Kelley Konopelski",
+        "status": "draft",
+        "start_date": "2024-09-14",
+        "end_date": "2025-03-16",
+        "contract_value": "74369"
+    },
+    {
+        "contract_id": "0d9090af-6b80-44f2-a316-4d5370f4d21d",
+        "client_name": "Willie Murray",
+        "status": "completed",
+        "start_date": "2024-07-11",
+        "end_date": "2025-03-07",
+        "contract_value": "52862"
+    },
+    {
+        "contract_id": "a14f55b5-dae4-4e83-a95a-2f667b423540",
+        "client_name": "Dave Hermann",
+        "status": "draft",
+        "start_date": "2024-07-07",
+        "end_date": "2025-02-05",
+        "contract_value": "81030"
+    },
+    {
+        "contract_id": "9060b154-e281-44dd-ab2b-68e4c2765933",
+        "client_name": "Cecelia Baumbach",
+        "status": "terminated",
+        "start_date": "2024-09-03",
+        "end_date": "2025-04-08",
+        "contract_value": "36510"
+    },
+    {
+        "contract_id": "76c86f5e-f630-4dda-b973-f2aa81105fad",
+        "client_name": "Nellie Becker",
+        "status": "active",
+        "start_date": "2024-10-29",
+        "end_date": "2025-12-04",
+        "contract_value": "1887"
+    },
+    {
+        "contract_id": "5b25d71c-98fa-45ea-97e7-a113577603c5",
+        "client_name": "Randall Mayer",
+        "status": "completed",
+        "start_date": "2024-08-19",
+        "end_date": "2025-01-25",
+        "contract_value": "35887"
+    },
+    {
+        "contract_id": "1fa33d2a-708d-43f8-be04-f2d0f1336c6e",
+        "client_name": "Moses Dickens I",
+        "status": "active",
+        "start_date": "2024-04-01",
+        "end_date": "2025-06-03",
+        "contract_value": "25497"
+    },
+    {
+        "contract_id": "7dc35efa-2a85-455f-a764-2fc808536804",
+        "client_name": "Dennis Wehner",
+        "status": "active",
+        "start_date": "2024-01-30",
+        "end_date": "2025-06-06",
+        "contract_value": "22519"
+    },
+    {
+        "contract_id": "68a42b77-cc8d-45f9-84ff-53cc28abd02a",
+        "client_name": "Mr. Leslie Morissette",
+        "status": "completed",
+        "start_date": "2024-10-14",
+        "end_date": "2025-04-06",
+        "contract_value": "81800"
+    },
+    {
+        "contract_id": "b0b9ac29-cc16-43a8-8c1e-129bc4e016ba",
+        "client_name": "Tyler Spinka V",
+        "status": "terminated",
+        "start_date": "2024-08-25",
+        "end_date": "2025-03-11",
+        "contract_value": "56102"
+    },
+    {
+        "contract_id": "c59fe0e3-240e-4b42-87bd-419aa77a3f2f",
+        "client_name": "Joseph Wilkinson II",
+        "status": "active",
+        "start_date": "2024-03-21",
+        "end_date": "2025-06-25",
+        "contract_value": "68577"
+    },
+    {
+        "contract_id": "f0764b6d-8a44-440f-a37d-5bb64d4a4552",
+        "client_name": "Terry Mayert",
+        "status": "draft",
+        "start_date": "2024-03-27",
+        "end_date": "2025-03-23",
+        "contract_value": "61596"
+    },
+    {
+        "contract_id": "55cfa62b-1a33-41ff-bf89-5a62e23a920d",
+        "client_name": "Ms. Tina Schinner",
+        "status": "draft",
+        "start_date": "2024-04-06",
+        "end_date": "2025-12-22",
+        "contract_value": "26217"
+    },
+    {
+        "contract_id": "95f48870-cc12-4cfd-ab48-f1d111a5cfd9",
+        "client_name": "Clarence Auer",
+        "status": "active",
+        "start_date": "2024-11-12",
+        "end_date": "2025-08-24",
+        "contract_value": "68468"
+    },
+    {
+        "contract_id": "a2c2270c-948c-4076-9599-86c1963f1ec5",
+        "client_name": "Wm Blick",
+        "status": "terminated",
+        "start_date": "2024-11-05",
+        "end_date": "2025-02-15",
+        "contract_value": "47517"
+    },
+    {
+        "contract_id": "0fcd2a3f-bf45-4b8b-84d2-add9221df551",
+        "client_name": "Darla Swaniawski",
+        "status": "terminated",
+        "start_date": "2024-04-22",
+        "end_date": "2025-03-05",
+        "contract_value": "60028"
+    },
+    {
+        "contract_id": "8333cd90-81db-4998-b3da-49a52b4fd93c",
+        "client_name": "Constance Shields",
+        "status": "active",
+        "start_date": "2024-10-03",
+        "end_date": "2025-03-18",
+        "contract_value": "76114"
+    },
+    {
+        "contract_id": "aceefaaf-7815-47c9-ab6b-8e5c0d45bbb9",
+        "client_name": "Dr. Wm Gislason",
+        "status": "draft",
+        "start_date": "2024-07-18",
+        "end_date": "2025-07-28",
+        "contract_value": "87380"
+    }
+]
