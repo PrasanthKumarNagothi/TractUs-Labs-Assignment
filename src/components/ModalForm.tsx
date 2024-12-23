@@ -168,7 +168,9 @@ function ModalForm(props: {
                                     <FormField
                                         key={fieldName}
                                         control={form.control}
-                                        name={fieldName}
+                                        name={
+                                            fieldName as keyof typeof props.contract
+                                        }
                                         render={({ field }) => (
                                             <FormItem>
                                                 <div className="grid grid-cols-4 items-center gap-4">
